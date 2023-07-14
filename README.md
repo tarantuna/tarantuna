@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarantuna&label=Profile%20views&color=0e75b6&style=flat" alt="tarantuna" /> </p>
 
-- 🔭 I’m currently working on **a database managing project**
+- 🔭 I’m currently working on **Javascript and React**
 
 - 🌱 I’m currently learning **PostgreSQL**
 
