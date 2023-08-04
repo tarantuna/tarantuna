@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarantuna&label=Profile%20views&color=0e75b6&style=flat" alt="tarantuna" /> </p>
 
-- 🔭 I’m currently working on **Javascript and React**
-
-- 🌱 I’m currently learning **PostgreSQL**
+- 🔭 I’m currently working on **React**
 
 - 📫 How to reach me **tarantuna06@gmail.com**
-
-- ⚡ Fun fact **I am Funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
