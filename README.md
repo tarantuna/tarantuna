@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **PostgreSQL**
 
-- 💬 You can ask me about **Python or Search Engine Optimisation (SEO)**
-
 - 📫 How to reach me **tarantuna06@gmail.com**
 
 - ⚡ Fun fact **I am Funny :)**
